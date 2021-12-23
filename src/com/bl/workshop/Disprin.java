@@ -8,7 +8,7 @@ public class Disprin extends Medicine {
 		composition[1] = "wwwww";
 		composition[2] = "rrrrr";
 		type = Medicine.Type.ALLOPATHY;
-		Name = "disprin";
+		name = "disprin";
 		
 	}
 }

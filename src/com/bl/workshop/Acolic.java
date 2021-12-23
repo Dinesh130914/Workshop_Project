@@ -8,6 +8,6 @@ public class Acolic extends Medicine {
 		composition[1] = "bbbb";
 		composition[2] = "cccc";
 		type = Medicine.Type.ALLOPATHY;
-		Name = "aciloc";
+		name = "aciloc";
 	}
 }

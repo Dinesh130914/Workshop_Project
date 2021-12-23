@@ -10,6 +10,6 @@ public class Glugond extends Medicine {
 		composition[2] = "I";
 		composition[3] = "Y";
 		composition[4] = "X";
-		Name = "GlugonD";
+		name = "GlugonD";
 	}
 }

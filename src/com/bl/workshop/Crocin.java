@@ -8,7 +8,7 @@ public class Crocin extends Medicine {
 		composition[1] = "caffeine";
 		composition[2] = "sodium methaile parabine";
 		type = Medicine.Type.ALLOPATHY;
-		Name = "crocin";
+		name = "crocin";
 		
 	}
 }
